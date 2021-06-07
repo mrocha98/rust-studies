@@ -1,0 +1,10 @@
+[package]
+name = "guessing-game"
+version = "0.1.0"
+authors = ["Matheus Rocha <matheus_rocha98@outlook.com>"]
+edition = "2018"
+license = "WTFPL"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
